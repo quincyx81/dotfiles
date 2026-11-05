@@ -1,0 +1,28 @@
+┏ hyprsunset v0.3.3 ━━╸
+┃
+┣ Loaded 1 profiles
+┣ Applying profile from: 0:0
+┣ Setting the temperature to 5000K (default)
+┃
+┣ Calculated the CTM to be [mat3x3: 0.8, 0, 0, 0, 0.71533334, 0, 0, 0, 0.64605623]
+┃
+┣ Running on Hyprland
+┣ Found hyprland-ctm-control-v1 supported with version 2, binding to v2
+┣ Found new output with ID 66, binding
+┣ Found 1 output(s), applying CTMs
+┣ Setting the temperature to 5000K (default)
+┃
+┣ Calculated the CTM to be [mat3x3: 0.8, 0, 0, 0, 0.71533334, 0, 0, 0, 0.64605623]
+┃
+[TRACE] [core] got poll event
+[TRACE] [core] got poll event
+[TRACE] [core] got poll event
+[TRACE] [core] got poll event
+[TRACE] [core] got poll event
+[CRIT] 
+==========================================================================================
+ASSERTION FAILED! 
+
+[core] Disconnected from pollfd id 0
+
+at: line 202 in Hyprsunset.cpp
